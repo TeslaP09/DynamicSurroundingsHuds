@@ -114,7 +114,7 @@ public class CompassHUD extends GuiOverlay {
 		}
 	}
 
-	private static final Item COMPASS = ForgeUtils.getItem("minecraft:compass");
+	private static final Item COMPASS = ForgeUtils.getItem("inspirations:north_compass");
 	private static final Item CLOCK = ForgeUtils.getItem("minecraft:clock");
 	private static final Item SEASON_CLOCK = ForgeUtils.getItem("sereneseasons:season_clock");
 
