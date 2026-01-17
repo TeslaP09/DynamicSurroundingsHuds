@@ -30,6 +30,7 @@ import java.util.Locale;
 
 import javax.annotation.Nonnull;
 
+import net.minecraftforge.fml.common.Loader;
 import org.orecruncher.dshuds.Environment;
 import org.orecruncher.dshuds.ModBase;
 import org.orecruncher.dshuds.ModInfo;
